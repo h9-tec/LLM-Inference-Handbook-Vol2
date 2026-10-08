@@ -1,0 +1,8 @@
+# measurement inputs (download per scripts/README.md)
+data/
+tok/
+# local renders and caches
+*.png
+__pycache__/
+*.pyc
+.DS_Store

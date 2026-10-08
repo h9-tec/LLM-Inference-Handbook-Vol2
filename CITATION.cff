@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this handbook, please cite it as below."
+title: "The LLM Inference Handbook, Volume II: Production Failure Modes"
+authors:
+  - family-names: Haroon
+    given-names: Hesham
+year: 2026
+url: "https://github.com/h9-tec/LLM-Inference-Handbook-Vol2"
+license: CC-BY-4.0
+type: book
+abstract: "Twenty-two chapters on what breaks in LLM inference after the benchmark passes: numerics and determinism, scheduler and cache internals, the host and hardware path, fleet realities, and Arabic inference hygiene. Every number is sourced or measured, with measurement scripts included."
